@@ -123,17 +123,12 @@ slot.html
 
 
 ```
+## OUTPUT
 ## SERVER OUTPUT:
 
 ![Screenshot (154)](https://user-images.githubusercontent.com/122793480/232836718-ca6be977-526f-4298-bdab-5bf3dd26a642.png)
 
-
-
-
-
-# OUPUT
-
-
+## CLIENT OUTPUT:
 ![Screenshot (152)](https://user-images.githubusercontent.com/122793480/232835452-3624c557-0e41-44f2-ab74-ef1840e16f30.png)
 
 ## HTML VALIDATOR:
