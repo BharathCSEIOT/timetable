@@ -125,7 +125,15 @@ slot.html
 ```
 
 # OUPUT
-"C:\Users\SEC\Pictures\Screenshots\Screenshot (152).png"
+
+
+![Screenshot (152)](https://user-images.githubusercontent.com/122793480/232835452-3624c557-0e41-44f2-ab74-ef1840e16f30.png)
+
+## HTML VALIDATOR:
+
+
+
+![Screenshot (153)](https://user-images.githubusercontent.com/122793480/232835644-d1ff3b34-3f69-4dc2-b0c0-f62b36ae9f5e.png)
 
 
 ## RESULT:
