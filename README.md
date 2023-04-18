@@ -123,6 +123,13 @@ slot.html
 
 
 ```
+## SERVER OUTPUT:
+
+![Screenshot (154)](https://user-images.githubusercontent.com/122793480/232836718-ca6be977-526f-4298-bdab-5bf3dd26a642.png)
+
+
+
+
 
 # OUPUT
 
